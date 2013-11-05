@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../android-sdl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../atlantis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../atlantis/cJSON" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../atlantis/cmake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../atlantis/crypto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../atlantis/cutest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../atlantis/quicklist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../atlantis/storage" vcs="Git" />
+  </component>
+</project>
+
